@@ -1,2 +1,5 @@
 # Basic-Portfolio
-first homework assignment
+# technologies used 
+* html
+*css
+*javascript
