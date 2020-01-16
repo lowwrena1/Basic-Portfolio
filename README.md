@@ -1,5 +1,5 @@
 # Basic-Portfolio
 # technologies used 
 * html
-*css
-*javascript
+* css
+* javascript
